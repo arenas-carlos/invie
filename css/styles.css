@@ -1,13 +1,32 @@
-* {
-    border: 1px solid red;
-    margin: 10px;
+.menu {
+    font-size: 24px;
 }
 
-/* selector de etiqueta */
-header {
-    background: blue;
+.portada{
+    background-image: url("/images/background.png");
+    color: white;
 }
 
-section{
- background: purple   
+.titulo {
+    font-size: 70px;
+}
+
+.resumen {
+    font-size: 24px;
+}
+
+.guitarras {
+    color: #1F313C;
+}
+
+.guitarras h2{
+    font-size: 35px;
+}
+
+.tiposGuitarra {
+    font-size: 50px;
+}
+
+article{
+    border: 5px solid darkblue;
 }
