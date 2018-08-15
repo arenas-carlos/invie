@@ -1,0 +1,13 @@
+* {
+    border: 1px solid red;
+    margin: 10px;
+}
+
+/* selector de etiqueta */
+header {
+    background: blue;
+}
+
+section{
+ background: purple   
+}
